@@ -437,6 +437,7 @@ img{
 }
 .ring-container {
     position: fixed;
+    z-index:999999;
     bottom: 100px;
     right: 100px;
     animation-delay: 10s;
